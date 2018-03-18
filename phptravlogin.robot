@@ -5,6 +5,7 @@ Library  BuiltIn
 ${URL}      http://phptravels.net/admin/
 ${BROWSER}  chrome
 ${EMAILID}  admin@phptravels.com
+${EMAILID2}  admin@phptravels.com
 ${TEXTBOX_USERNAME}  //input[@type='text']
 ${PASSWORD}  demoadmin
 ${TEXTBOX_PASSWORD}  //input[@name='password']
